@@ -3,36 +3,25 @@ layout: page
 title: "Home"
 permalink: /
 ---
-## About SQS
+## About SNS
 
-The Subcommission on Quaternary Stratigraphy (SQS) is a constituent body of the [International Commission on Stratigraphy (ICS)](https://stratigraphy.org), the largest scientific organisation within the [International Union of Geological Sciences (IUGS)](http://www.iugs.org).
+### Organization
+The Subcommission on Neogene Stratigraphy (SNS) is part of the International Commission on Stratigraphy (ICS) of the International Union of Geological Sciences (IUGS). The SNS was founded in 1971 in Lyon - during the IV congress on Mediterranean Neogene Stratigraphy - by Professor Menner, chairman of the ICS.
 
-It is also the only body concerned with stratigraphy on a global scale for the whole geological column. Its most important major objective is the establishment of a standard, globally-applicable stratigraphical scale, which it seeks to achieve through the co-ordinated contributions of a network of Subcommissions and Working Groups with a specific, limited mandate.
+### Board
+<!-- The present SNS executive consists of Kenneth Miller (Chair, Rutgers State University of New Jersey, USA), and Elena Turco (Vice-Chair, University of Parma, Italy) & Marie-Pierre Aubry (Secretary, Rutgers, State University of New Jersey).-->
+Please see the ICS' listing of Subcommission office holders for SNS:
 
-The SQS exists to promote and co-ordinate international co-operation and integration by applying the statutary scientific goals of the ICS to the Quaternary – the most recent geological system, the last 2.6 Ma:
+* <https://stratigraphy.org/subcommissions#neogene>
 
-* the establishment and publication of a standard and global geological time-scale for the Quaternary and the preparation and publication of global correlation charts,
-* the unification of regional chronostratigraphical nomenclature by organising and documenting stratigraphical units on a global scale,
-* the promotion of education in stratigraphical methods, and the dissemination of stratigraphical knowledge,
-* the evaluation of new stratigraphical methods and their integration into a multidisciplinary stratigraphy, and
-* the definition of principles of stratigraphical classification, terminology and procedure and their publication in guides and glossaries.
 
-The scientific activities are carried out through projects, websites, publications and meetings, particularly through close co-operation with our sister organisation the [International Union of Quaternary Research (INQUA)](http://www.inqua.tcd.ie/)'s [Commission on Stratigraphy and Chronology (SACCOM)](http://inqua-saccom.org/), as well as through collaboration with other organisations.
+### Regional committees and Working groups
+The SNS presently has four regional committees (Mediterranean, Pacific, Atlantic and Nordic) and one working group on defining the Langhian and Burdigalian GSSPs chaired by Frits Hilgen (University of Utrecht, The Netherlands). The mandate of the working group is to propose remaining GSSPs for these Miocene stages and to place them in an astronomically-calibrated time scale.
 
-<hr />
-This site is supported by [Wiley Quaternary Journals](https://onlinelibrary.wiley.com/).
+### Contact
+Comments, reactions or contributions to the SNS homepage? Send them to: 
 
-<span style="margin-right:20px;">
-<a href="https://onlinelibrary.wiley.com/journal/10991417">
-  <img src="images/JQS_cover_2014.png" alt="journal cover" style="height:300px; border: solid 1px black;" />
-</a>
-</span>
-<span>
-<a href="https://onlinelibrary.wiley.com/journal/15023885">
-  <img src="images/Boreas_cover_2014.jpg" alt="journal cover" style="height:300px; border: solid 1px black;"  />
-</a>
-</span>
-
-<hr />
-
-The Subcommission on Quaternary Stratigraphy (SQS) is a constituent body of the [International Commission on Stratigraphy (ICS)](https://stratigraphy.org), the largest scientific organisation within the [International Union of Geological Sciences (IUGS)](http://www.iugs.org/).
+**Prof. Elena Turco**  
+Neogene Subcommission Vice-Chair  
+Università degli Studi di Parma  
+<elena.turco@unipr.it>  
