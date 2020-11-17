@@ -3,6 +3,10 @@ layout: page
 title: "Home"
 permalink: /
 ---
+## Neogene Timescale
+<a href="images/neogene-timescale.png"><img src="images/neogene-timescale.png" alt="Noegene timescale" style="width:75%" /></a>
+
+
 ## About SNS
 
 ### Organization

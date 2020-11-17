@@ -13,6 +13,10 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 This subcommission's website is hosted within the ICS's set of code repositories, see <https://github.com/i-c-stratigraphy/subcommission-neogene>.
 
+Running the site locally:
+
+`bundle exec jekyll serve`
+
 
 ## License & Rights
 The content of this repository is licensed using the Creative Commons Attribution 4.0 license:
