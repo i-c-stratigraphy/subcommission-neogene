@@ -19,7 +19,6 @@ permalink: /members
 * [Miller, K. G.](mailto:kgm@rci.rutgers.edu)
 * [Nishi, H.](mailto:hnishi@m.tohoku.ac.jp)
 * [Pälike, H.](mailto:hpaelike@marum.de)
-* [Pearson, P.](mailto:PearsonP@cardiff.ac.uk)
 * [Piller, W. E.](mailto:werner.piller@uni-graz.at)
 * [Raffi, I.](mailto:raffi@unich.it)
 * [Rook, L.](mailto:lorenzo.rook@unifi.it)
