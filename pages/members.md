@@ -7,7 +7,7 @@ permalink: /members
 
 ## Voting Members
 * [Aubry, M.P.](mailto:aubry@rci.rutgers.edu)
-* [Backman, J.](mailto:backman@geo.su.se)
+* [Flores Villajero, J.](mailto:flores@usal.es)
 * [Berggren, W. A.](mailto:wberggren@whoi.edu)
 * [Bernor, R.](mailto:rbernor@howard.edu)
 * [Beu, A. G.](mailto:a.beu@gns.cri.nz)
