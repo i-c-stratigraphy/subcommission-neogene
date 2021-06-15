@@ -6,7 +6,7 @@ permalink: /members
 # Members
 
 ## Voting Members
-* [Aubry, M.P.](mailto:aubry@eps.rutgers.edu)
+* [Aubry, M.P., Secretary](mailto:aubry@eps.rutgers.edu)
 * [Flores Villajero, J.](mailto:flores@usal.es)
 * [Gladenkov, A.](mailto:agladenkov@ilran.ru)
 * [Grunert, P.](mailto:pgrunert@uni-koeln.de)
@@ -16,7 +16,7 @@ permalink: /members
 * [Holbourn, A.](mailto:ah@gpi.uni-kiel.de)
 * [Krijgsman, W.](mailto:W.Krijgsman@uu.nl)
 * [Lirer, F.](mailto:fabrizio.lirer@cnr.it)
-* [Miller, K.](mailto:kgm@eps.rutgers.edu)
+* [Miller, K., Chair](mailto:kgm@eps.rutgers.edu)
 * [Nishi, H.](mailto:hnishi@m.tohoku.ac.jp)
 * [Piller, W.](mailto:werner.piller@uni-graz.at)
 * [Quillévéré, Frédéric](mailto:frederic.quillevere@univ-lyon1.fr)
@@ -25,7 +25,7 @@ permalink: /members
 * [Rook, L.](mailto:lorenzo.rook@unifi.it)
 * [Tian, J.](mailto:tianjun@tongji.edu.cn)
 * [Triantaphyllou, M.](mailto:mtriant@geol.uoa.gr)
-* [Turco, E.](mailto:elena.turco@unipr.it)
+* [Turco, E., Vice Chair](mailto:elena.turco@unipr.it)
 * [Vallejo, F.](mailto:diego.vallejo@ucaldas.edu.co)
 
 ## Corresponding Members
@@ -37,13 +37,14 @@ permalink: /members
 * [Drinia H.](mailto:cntrinia@geol.uoa.gr)
 * [Edwards L. E.](mailto:leedward@usgs.gov)
 * [Foresi L. M.](mailto:luca.foresi@unisi.it)
-* [Holbourn A.](mailto:ah@gpi.uni-kiel.de)
 * [Hudackova, N.](mailto:hudackova@nic.fns.uniba.sk)
 * [Janssen, A. W.](mailto:arienwjanssen@gmail.com)
 * [Janssen, R.](mailto:Ronald.Janssen@senkenberg.de)
+* [Kent, D.](mailto:dvk@ldeo.columbia.edu)
 * [Kovac, M.](mailto:kovacm@fns.uniba.sk)
 * [Mein, P.](mailto:mein@univ-lyon1.fr)
 * [Montanari, S.](mailto:sandro.coldigioco@gmail.com)
+* [Pälike, H.](mailto:hpaelike@marum.de)
 * [Mudie, P.](mailto:pmudie@agc.bio.ns.ca)
 * [Pichezzi, R.](mailto:rita.pichezzi@isprambiente.it)
 * [Raymo, M. E.](mailto:raymo@ldeo.columbia.edu)
@@ -51,3 +52,4 @@ permalink: /members
 * [Roveri, M.](mailto:marco.roveri@unipr.it)
 * [Smolka, P. P.](mailto:smolka@uni-muenster.de)
 * [Stoykova, K.](mailto:stoykova@geology.bas.bg)
+* [Van Couvering, J.](mailto:vancja@gmail.com)
