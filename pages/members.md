@@ -19,7 +19,7 @@ permalink: /members
 * [Miller, K., Chair](mailto:kgm@eps.rutgers.edu)
 * [Nishi, H.](mailto:hnishi@m.tohoku.ac.jp)
 * [Piller, W.](mailto:werner.piller@uni-graz.at)
-* [Quillévéré, Frédéric](mailto:frederic.quillevere@univ-lyon1.fr)
+* [Quillévéré, F.](mailto:frederic.quillevere@univ-lyon1.fr)
 * [Raffi, I.](mailto:raffi@unich.it)
 * [Robinson, M.](mailto:mmrobinson@usgs.gov)
 * [Rook, L.](mailto:lorenzo.rook@unifi.it)
