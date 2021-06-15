@@ -8,9 +8,9 @@ permalink: /members
 ## Voting Members
 * [Aubry, M.P.](mailto:aubry@rci.rutgers.edu)
 * [Flores Villajero, J.](mailto:flores@usal.es)
-* [Berggren, W. A.](mailto:wberggren@whoi.edu)
-* [Bernor, R.](mailto:rbernor@howard.edu)
-* [Beu, A. G.](mailto:a.beu@gns.cri.nz)
+* [Gladenkov, A.](mailto:agladenkov@ilran.ru)
+* [Grunert, P.](mailto:pgrunert@uni-koeln.de)
+* [Hilgen, F.](mailto:fhilgen@geo.uu.nl)
 * [Gladenkov, Y. B.](mailto:gladenkov@ginras.ru)
 * [Hilgen, F. J.](mailto:f.j.hilgen@uu.nl)
 * [Hodell, D.](mailto:dah73@cam.ac.uk)
