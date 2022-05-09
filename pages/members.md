@@ -7,12 +7,12 @@ permalink: /members
 
 ## Voting Members
 * [Aubry, M.P., Secretary](mailto:aubry@eps.rutgers.edu)
+* Dury, A.-J
 * [Flores Villajero, J.](mailto:flores@usal.es)
 * [Gladenkov, A.](mailto:agladenkov@ilran.ru)
-* [Grunert, P.](mailto:pgrunert@uni-koeln.de)
-* [Hilgen, F.](mailto:fhilgen@geo.uu.nl)
 * [Gladenkov, Y. B.](mailto:gladenkov@ginras.ru)
 * [Grunert, P.](mailto:pgrunert@uni-koeln.de)
+* [Hilgen, F.](mailto:fhilgen@geo.uu.nl)
 * [Holbourn, A.](mailto:ah@gpi.uni-kiel.de)
 * [Krijgsman, W.](mailto:W.Krijgsman@uu.nl)
 * [Lirer, F.](mailto:fabrizio.lirer@cnr.it)
