@@ -7,7 +7,7 @@ permalink: /members
 
 ## Voting Members
 * [Aubry, M.P., Secretary](mailto:aubry@eps.rutgers.edu)
-* Dury, A.-J
+* [Dury, A.-J](mailto:a.j.drury@ucl.ac.uk)
 * [Flores Villajero, J.](mailto:flores@usal.es)
 * [Gladenkov, A.](mailto:agladenkov@ilran.ru)
 * [Gladenkov, Y. B.](mailto:gladenkov@ginras.ru)
