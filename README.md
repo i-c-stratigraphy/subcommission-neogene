@@ -13,6 +13,16 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 This subcommission's website is hosted within the ICS's set of code repositories, see <https://github.com/i-c-stratigraphy/subcommission-neogene>.
 
+Setup:
+
+`bundle install`  
+`bundle exec jekyll new --force --skip-bundle .`  
+`bundle install`  
+`bundle update`  
+`bundle add webrick`  
+`bundle exec jekyll new --force --skip-bundle .`  
+`bundle add webrick`  
+
 Running the site locally:
 
 `bundle exec jekyll serve`
