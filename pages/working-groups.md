@@ -1,9 +1,14 @@
 ---
 layout: page
-title: "Links"
-permalink: /nqpfwg
+title: "Working Groups"
+permalink: /working-groups
 ---
-# Neogene and Quaternary Planktonic Foraminifera Working Group
+# Working Groups
+
+* [Neogene and Quaternary Planktonic Foraminifera WG](#neogene-and-quaternary-planktonic-foraminifera-wg)
+* [Langhian and Burdigalian GSSPs WG](#langhian-and-burdigalian-gssps-wg)
+
+## Neogene and Quaternary Planktonic Foraminifera WG
 
 The Neogene and Quaternary Planktonic Foraminifera Working Group follows the efforts of the Paleogene Planktonic Foraminifera Working Group, who were active for over 30 years and produced three comprehensive revisions of the taxonomy, phylogeny, and biostratigraphy of the Paleogene planktonic foraminifera (see references below). The Neogene and Quaternary Planktonic Foraminifera Working Group aims to establish an integrated and clear taxonomy for all Neogene and Quaternary planktonic foraminifera, which will include scanning electron microscope images of all holotypes and paratypes, where available. The work will also assess the biogeographic and stratigraphic distribution of all species, provide a synthesis of all available stable isotope palaeobiological data, and will permit the construction of a species level phylogeny that aims to integrate fossil and molecular data.
 
@@ -14,14 +19,13 @@ For any further information or to request to join the group please email the gro
 **Chair**: Tracy Aze, University of Leeds, U.K. Email: <T.Aze@Leeds.ac.uk>  
 **Secretary**: Alessio Fabbrini, University College London, U.K. Email: <a.fabbrini@ucl.ac.uk>
 
-## References
+### References
 
 * Olsson R.K., Berggren W.A., Hemleben C., & Huber B.T. (1999). Atlas of Paleocene Planktonic Foraminifera. _Smithsonian Contributions to Paleobiology_ **85**, 252 p.
 * Pearson P.N., Olsson R.K., Huber B.T., Hemleben C., & Berggren W.A. (2006). Atlas of Eocene Planktonic Foraminifera. _Cushman Foundation Special Publication_ **41**, 514 p.
 * Wade B.S., Olsson R.K., Pearson P.N., Huber B.T., & Berggren W.A. (2018). Atlas of Oligocene Planktonic Foraminifera. _Cushman Foundation for Foraminiferal Research_ **46**, 528 p.
 
-## Participants
-
+### Participants
 
 **Name**	|	**Email address**	|	**Affiliation**
 --- | --- | ---
@@ -61,3 +65,9 @@ Elena Turco	|	<elena.turco@unipr.it> | University of Parma, Italy
 Bridget Wade	|	<b.wade@ucl.ac.uk> | University College London, U.K.
 Tirza Weitkamp	|	<tirza.weitkamp@geo.su.se> | Stockholm University, Sweden
 Adam Woodhouse	|	<adam.woodhouse@austin.utexas.edu> | University of Texas at Austin, U.S.A.
+
+----
+
+## Langhian and Burdigalian GSSPs WG
+
+_Working Group information coming soon!_
