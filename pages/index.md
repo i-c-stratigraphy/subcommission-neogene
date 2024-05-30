@@ -3,6 +3,16 @@ layout: page
 title: "Home"
 permalink: /
 ---
+
+<div style="text-align:center;">
+    <div style="border:solid 10px #FFDB4B; width:500px;">
+        <h4>A Tribute to John A. Van Couvering</h4>
+        <p>The Neogene Subcommission wishes to pay tribute to John A. Van Couvering who passed away recently.</p>
+        <img src="files/TributeJVC.png" alt="John A Van Couvering" style="width:250px;" />
+        <p>Please read: <a href="files/TributeJVC.pdf">A Tribute to our Friend and Colleague John A. Van Couvering (1931-2023) (PDF)</a></p>
+    </div>
+</div>
+
 ## Neogene Timescale
 <a href="images/neogene-timescale.png"><img src="images/neogene-timescale.png" alt="Noegene timescale" style="width:75%" /></a>
 
