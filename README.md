@@ -1,5 +1,5 @@
 # Neogene Subcommission Website
-The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://neogene.stratigraphy.org>.
+The small website for the Neogene subcommission of the International Commission on Stratigraphy, is online at <http://neogene.stratigraphy.org>.
 
 
 ## Content

@@ -6,6 +6,15 @@ permalink: /
 
 <div style="text-align:center;">
     <div style="border:solid 10px #FFDB4B; width:550px;">
+        <h4>A Tribute to Maria Bianca Cita</h4>
+        <p>The Neogene Subcommission wishes to pay tribute to Maria Bianca Cita,<br />one of the best-known Italian geoscientists.</p>
+        <img src="files/TributeMariaBiancaCita.png" alt="Maria Bianca Cita" style="width:250px;" />
+        <p><a href="files/TributeMariaBiancaCita.pdf">A Tribute to Maria Bianca Cita (1924-2024) (PDF)</a></p>
+    </div>
+</div>
+<br />
+<div style="text-align:center;">
+    <div style="border:solid 10px #FFDB4B; width:550px;">
         <h4>A Tribute to John A. Van Couvering</h4>
         <p>The Neogene Subcommission wishes to pay tribute to John A. Van Couvering who passed away recently.</p>
         <img src="files/TributeJVC.png" alt="John A Van Couvering" style="width:250px;" />
