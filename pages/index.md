@@ -23,7 +23,7 @@ permalink: /
 </div>
 
 ## Neogene Timescale
-<a href="images/neogene-timescale.png"><img src="images/neogene-timescale.png" alt="Noegene timescale" style="width:75%" /></a>
+<a href="images/neogene-timescale-2.png"><img src="images/neogene-timescale-2.png" alt="Noegene timescale" style="width:75%" /></a>
 
 
 ## About SNS
@@ -39,12 +39,13 @@ Please see the ICS' listing of Subcommission office holders for SNS:
 
 
 ### Regional committees and Working groups
-The SNS presently has four regional committees (Mediterranean, Pacific, Atlantic and Nordic) and one working group on defining the Langhian and Burdigalian GSSPs chaired by Frits Hilgen (University of Utrecht, The Netherlands). The mandate of the working group is to propose remaining GSSPs for these Miocene stages and to place them in an astronomically-calibrated time scale.
+
+The SNS is currently working to install one working group on defining the Burdigalian GSSP. The composition and chair of the working group will be decided upon in early 2025. The mandate of the working group is to propose a GSSP for this Lower Miocene stage and to place it in the current astronomically-calibrated time scale.
 
 ### Contact
 Comments, reactions or contributions to the SNS homepage? Send them to: 
 
-**Prof. Elena Turco**  
-Neogene Subcommission Vice-Chair  
-Università degli Studi di Parma  
-<elena.turco@unipr.it>  
+**Prof. Dr. David De Vleeschouwer**  
+_Neogene Subcommission Vice-Chair_  
+University of Münster, Institute of Geology and Palaeontology  
+<ddevlees@uni-muenster.de>

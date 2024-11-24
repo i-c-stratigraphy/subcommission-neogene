@@ -4,44 +4,42 @@ title: "GSSPs"
 permalink: /gssps
 ---
 # GSSPs
-Global Standard Stratotype section and Point (GSSP) and Working groups
+
+Neogene Global Standard Stratotype sections and Points (GSSPs)
 
 
 ## Map of GSSPs
 
-![](images/GSSP_map1.jpg)
+<img src="images/GSSP_map2024.png" alt="GSSP map" style="width:100%;" />
 
 **Stage** | **Section** | **Location**
 --- | --- | ---
-base Calabrian | Vrica, near Crotone, Italy | 39º05'00" N, 17º07'00" E
-base Gelasian | Mt S. Nicola, near Gela, Sicily, Italy | 37º04'00" N, 14º15'00" E
-base Piacenzian | Punta Piccola, Sicily, Italy | 37º17'20'' N, 13º29'36'' E
-base Zanclean | Eraclea Minoa, Sicily, Italy | 37º23'30'' N, 13º16'50'' E
-base Messinian | Oued Akrech, Morrocco | 33º56'13'' N, 06º48'45'' E
-base Tortonian | Monte dei Corvi, central Italy | 43º58'67'' N, 13º56'94'' E
-base Serravallian | Ras il Pellegrin, Malta | 35º54'56'' N, 14º20'03'' E
-base Neogene | Lemme-Carrosio, northern Italy | 44º39'32'' N, 08º50'11'' E 
+base Langhian | Lower La Vedova Beach section | central Italy | 43°35'31" N, 13°33'44" E
+base Piacenzian | Punta Piccola, Sicily, Italy | 37º17'20" N, 13º29'36" E
+base Zanclean | Eraclea Minoa, Sicily, Italy | 37º23'30" N, 13º16'50" E
+base Messinian | Oued Akrech, Morrocco | 33º56'13" N, 06º48'45" E
+base Tortonian | Monte dei Corvi, central Italy | 43º58'67" N, 13º56'94" E
+base Serravallian | Ras il Pellegrin, Malta | 35º54'56" N, 14º20'03" E
+base Neogene | Lemme-Carrosio, northern Italy | 44º39'32" N, 08º50'11" E 
 
-## Base of the Gelasian
-### The Global Standard Stratotype section and Point (GSSP) of the Gelasian Stage: Monte San Nicola, Sicily, Italy
-The Gelasian GSSP marks the base of the Upper Pliocene. It falls within MIS 103 and coincides closely with the Gauss - Matuyama boundary reversal. It preceeds the D. pentaradiatus LO and has been dated astronomically at 2.588 Ma. 
+## Base of the Langhian
+
+The Global Standard Stratotype section and Point (GSSP) of the Langhian Stage and the Middle Miocene Subseries: Lower La Vedova Beach section, central Italy. 
+
+The Langhian GSSP is defined as level 17.84 m from the base of the section, in the middle of the dark coloured marly interval overlying Megabed IV. This stratigraphic level is astronomically calibrated to the most prominent ~100-kyr eccentricity maximum around 16 Ma and lies close to the Chron C5Cn/C5Br magnetic reversal boundary which is considered the principal event for recognizing the boundary globally. 
+
+In addition, Integrated Ocean Drilling Program (IODP) Site U1337 in the eastern equatorial Pacific was designated as Standard Auxiliary Boundary Stratotype (SABS) with the objective of directly linking the Langhian GSSP to the astronomically calibrated open ocean benthic foraminiferal stable isotope record. The SABS shows that the GSSP for the base of Langhian Stage and Middle Miocene Subseries at around 16 Ma falls within the Miocene Climate Optimum (MCO) and is ~400-kyr older than the most prominent eccentricity paced hyperthermal event, astronomically dated at 15.6 Ma. 
 
 <div style="display: grid;">
-    <a href="images/Gelasian_enl_01.jpg" style="grid-column:1; grid-row:1;">
-        <img src="images/Gelasian01.jpg" alt="Gelasian01"><br />
-        Overview of section San Nicola. Arrow (in enlarged view) indicates the top of the dark layer, which defines the Gelasian GSSP.
+    <a href="images/Langhian_GSSP_1.jpg" style="grid-column:1;">
+        <img src="images/Langhian_GSSP_1.jpg" alt="Langhian GSSP 1" style="width:300px;" />
     </a>
-    <a href="images/Gelasian_enl_02.jpg" style="grid-column:2; grid-row:1;">
-        <img src="images/Gelasian02.jpg" alt="Gelasian02"><br />
-        Left arrow (in enlarged view) marks the Gelasian GSSP. The two thick sapropels at the top correspond to c and e marker-beds at Vrica. The top of the latter (right arrow in enlarged view) marks the Pliocene-Pleistocene boundary.
-    </a>
-    <a href="images/Gelasian_enl_03.jpg" style="grid-column:3; grid-row:1;">
-        <img src="images/Gelasian03.jpg" alt="Gelasian03"><br />
-        The Gelasian GSSP is defined at the top of the youngest dark layer (arrow in enlarged view) down left.
+    <a href="images/Langhian_GSSP_2.jpg" style="grid-column:2;">
+        <img src="images/Langhian_GSSP_2.jpg" alt="Langhian GSSP 2" style="width:300px;" />
     </a>
 </div>
 
-_The Gelasian Stage (Upper Pliocene): A new unit of the global standard chronostratigraphic scale, by D. Rio, R. sprovieri, D. Castradori and E. Di Stefano (1998) Episodes 21 (2), p 82-87_ [full text](files/Gelasian.pdf)
+_The Global Stratotype Section and Point (GSSP) of the Langhian Stage and of the Middle Miocene Subseries, by Turco E., Hilgen F., Raffi I., Di Stefano A., Foresi L.M., Holbourn A., Iaccarino S.M., and Lirer F. (2023), Published online November 1, 2023. [Full text](files/Langhian.pdf)_
 
 ## Base of the Piacenzian
 ### The Global Standard Stratotype section and Point (GSSP) of the Piacenzian Stage: Punta Piccola section (Sicily, Italy)
@@ -81,7 +79,7 @@ Punta Piccola section. Left arrow marks the basal part in which the Piacenzian G
 </div>
 Hammering the "golden spike" during the fieldtrip of the Erice conference on Neogene Mediterranean Paleoceanography held in September 1997, featuring Mike Howell, Isabel Zamarreno (with camera), Maria Bianca Cita, Frits Hilgen and Franco Ricci Lucchi (from left to right on the left picture). Mike and Silvia Iaccarino together hold the preliminary boundary plate (right picture).
 
-_The Global Standard Stratotype section and Point (GSSP) of the Piacenzian Stage (Middle Pliocene), by D. Castradori, D. Rio, F.J. Hilgen and L.J. Lournes (1998), Episodes 21 (2), pp. 88-93_ [full text](files/Piacenzian.pdf)
+_The Global Standard Stratotype section and Point (GSSP) of the Piacenzian Stage (Middle Pliocene), by D. Castradori, D. Rio, F.J. Hilgen and L.J. Lournes (1998), Episodes 21 (2), pp. 88-93. [Full text](files/Piacenzian.pdf)_
 
 ## Base of the Zanclean
 ### The Global Standard Stratotype section and Point (GSSP) of the Zanclean Stage: Eraclea Minoa section, southern coast Sicily, Italy
@@ -115,7 +113,7 @@ Eastward continuation of the Messinian-Zanclean boundary (arrow in enlarged view
 
 Detail of the coastal cliffs at Eraclea Minoa showing the basal part of the Trubi Fm. Arrow (in enlarged view) marks top of cycle 6. 
 
-_The base of the Zanclean Stage and of the Pliocene Series, by J.A. Van Couvering, D. Castradori, M.B. Cita, F.J. Hilgen and D. Rio (2000), Episodes 23 (3) pp. 179-187_ [full text](files/Zanclean.pdf)
+_The base of the Zanclean Stage and of the Pliocene Series, by J.A. Van Couvering, D. Castradori, M.B. Cita, F.J. Hilgen and D. Rio (2000), Episodes 23 (3) pp. 179-187. [Full text](files/Zanclean.pdf)_
 
 ## Base of the Messinian
 ### The Global Standard Stratotype section and Point (GSSP) of the Messinian Stage: Oued Akrech section, Morocco
@@ -146,7 +144,7 @@ The Messinian GSSP is defined at the base of reddish layer of small-scale carbon
 
 Messinian GSSP in section Oued Akrech, Atlantic side of Morocco. Preparation (top middle) and nailing down (bottom) of the "golden spike" with Silvia Iaccarino and Wout Krijgsman during one of the fieldtrips of the RCMNS congres held in Rabat, September 2000. Interview for Moroccan television in top right.
 
-_The Global Boundary Stratotype Section and Point (GSSP) of the Messinian Stage (uppermost Miocene), by F.J. Hilgen, S. Iaccarino, W. Krijgsman, G. Villa, C.G. Langereis and W.J. Zachariasse (2000), Episodes 23 (3) pp. 172-178._ [full text](files/Messinian.pdf)
+_The Global Boundary Stratotype Section and Point (GSSP) of the Messinian Stage (uppermost Miocene), by F.J. Hilgen, S. Iaccarino, W. Krijgsman, G. Villa, C.G. Langereis and W.J. Zachariasse (2000), Episodes 23 (3) pp. 172-178. [Full text](files/Messinian.pdf)_
 
 
 ## Base of the Tortonian
@@ -164,7 +162,7 @@ The Tortonian GSSP is defined at the mid-point of the sapropel of cycle 76 in th
     </a>
 </div>
 
-_The Global boundary Stratotype Section and Point (GSSP) of the Tortonian Stage (Upper Miocene) at Monte dei Corvi, by Hilgen F.J., Abdul Aziz H., Bice D., Iaccarino S., Krijgsman W., Kuiper K., Montanari S., Raffi I., Turco E. and Zachariasse W.J. (2005), Episodes. 28, pp. 6-17_ [full text](files/Tortonian.pdf)
+_The Global boundary Stratotype Section and Point (GSSP) of the Tortonian Stage (Upper Miocene) at Monte dei Corvi, by Hilgen F.J., Abdul Aziz H., Bice D., Iaccarino S., Krijgsman W., Kuiper K., Montanari S., Raffi I., Turco E. and Zachariasse W.J. (2005), Episodes. 28, pp. 6-17. [Full text](files/Tortonian.pdf)_
 
 ## Base of the Serravallian
 ### The Global Standard Stratotype section and Point (GSSP) of the Serravallian Stage: Ras il Pellegrin section, Malta
@@ -175,7 +173,7 @@ The Serravallian GSSP is defined at the formation boundary (i.e. at top of “tr
     The Globigerina Limestone, Blue Clay, Greensand and Upper Coralline Limestone Formations in the Ras il pellegrin section on Malta island. 
 </a>
 
-_The Global boundary Stratotype section and Point (GSSP) of the Serravallian Stage (Middle Miocene), by Hilgen F.J., Abels H.A, Iaccarino S., Krijgsman W., Raffi I., Sprovieri R., Turco E., and Zachariasse J.W.,(2009), Episodes, 32, pp. 152-166_ [full text](files/Serravallian.pdf)
+_The Global boundary Stratotype section and Point (GSSP) of the Serravallian Stage (Middle Miocene), by Hilgen F.J., Abels H.A, Iaccarino S., Krijgsman W., Raffi I., Sprovieri R., Turco E., and Zachariasse J.W.,(2009), Episodes, 32, pp. 152-166. [Full text](files/Serravallian.pdf)._
 
 ## Base of the Neogene
 ### The Global Standard Stratotype section and Point (GSSP) of the base of the Neogene: Lemme-Carrosio section, Alessandria Province, northern Italy
@@ -201,19 +199,4 @@ The GSSP of the base of the Neogene is defined at 35 meter from the top of the L
 
 The Lemme-Carrosio section, GSSP of the base of the Neogene
 
-_The Global Stratotype Section and Point (GSSP) for the base of the Neogene, by F.F. Steininger and others (1997), Episodes 20 (10), pp. 23-28_
-* [full text](files/Neogene.pdf)
-
-## Working Group on Langhian and Burdigalian GSSPs 
-* [Hilgen, F. (Chair), The Netherlands](mailto:f.j.hilgen@uu.nl)
-* [Berggren, W. A., USA](mailto:wberggren@whoi.edu)
-* [Channell, J. E., USA](mailto:jetc@ufl.edu)
-* [Di Stefano, A., Italy](mailto:distefan@unict.it)
-* [Foresi, L. M., Italy](mailto:luca.foresi@unisi.it)
-* [Holbourn, A., Germany](mailto:ah@gpi.uni-kiel.de)
-* [Iaccarino, S. M., Italy](mailto:iaccarin@unipr.it)
-* [Lirer, F., Italy](mailto:fabrizio.lirer@iamc.cnr.it)
-* [Miller, K. G., USA](mailto:kgm@rci.rutgers.edu)
-* [Pearson, P., UK](mailto:PearsonP@cardiff.ac.uk)
-* [Raffi, I.,Italy](mailto:raffi@unich.it)
-* [Turco, E., Italy](mailto:elena.turco@unipr.it)
+_The Global Stratotype Section and Point (GSSP) for the base of the Neogene, by F.F. Steininger and others (1997), Episodes 20 (10), pp. 23-28. [Full text](files/Neogene.pdf)_

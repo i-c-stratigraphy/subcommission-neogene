@@ -6,7 +6,18 @@ permalink: /working-groups
 # Working Groups
 
 * [Neogene and Quaternary Planktonic Foraminifera WG](#neogene-and-quaternary-planktonic-foraminifera-wg)
-* [Langhian and Burdigalian GSSPs WG](#langhian-and-burdigalian-gssps-wg)
+* [Burdigalian GSSP WG](#langhian-and-burdigalian-gssps-wg)
+
+## Burdigalian GSSP WG
+
+The base-Burdigalian is the remaining stage boundary of the Neogene to be formally defined by GSSP and the selection of criteria and sections for its definition represents primary objective of SNS.
+
+The working group on defining the Burdigalian GSSP will have the mandate to propose the remaining GSSP for this Miocene stage and to place it in an astronomically calibrated time scale.
+
+The discussion on the definition of the base of the Burdigalian is still wide open. No suitable candidate section has yet been identified. We were seeking an astronomically tuned deep marine section, possibly in the Mediterranean, that would guarantee the stratigraphic contiguity with the other GSSP sections. Another option for SNS is to formally define the boundary in an (I)ODP core. We are currently investigating designation of the GSSP in a deep-sea core.
+
+The SNS is currently working to install one working group on defining the Burdigalian GSSP. The composition and chair of the working group will be decided upon in early 2025.
+
 
 ## Neogene and Quaternary Planktonic Foraminifera WG
 
@@ -65,9 +76,3 @@ Elena Turco	|	<elena.turco@unipr.it> | University of Parma, Italy
 Bridget Wade	|	<b.wade@ucl.ac.uk> | University College London, U.K.
 Tirza Weitkamp	|	<tirza.weitkamp@geo.su.se> | Stockholm University, Sweden
 Adam Woodhouse	|	<adam.woodhouse@austin.utexas.edu> | University of Texas at Austin, U.S.A.
-
-----
-
-## Langhian and Burdigalian GSSPs WG
-
-_Working Group information coming soon!_
