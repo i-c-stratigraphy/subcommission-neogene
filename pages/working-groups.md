@@ -5,8 +5,8 @@ permalink: /working-groups
 ---
 # Working Groups
 
+* [Burdigalian GSSP WG](#burdigalian-gssp-wg)
 * [Neogene and Quaternary Planktonic Foraminifera WG](#neogene-and-quaternary-planktonic-foraminifera-wg)
-* [Burdigalian GSSP WG](#langhian-and-burdigalian-gssps-wg)
 
 ## Burdigalian GSSP WG
 
