@@ -15,7 +15,7 @@ Please also see the listing of Neogene officers on the [stratigraphy.org Subcomm
 
 ## Voting Members
 
-* [de Vleeschower, David](mailto:ddevlees@uni-muenster.de)
+* [de Vleeschouwer, David](mailto:ddevlees@uni-muenster.de)
 * [Drury, Anna Joy](mailto:a.j.drury@leicester.ac.uk)
 * [Flores, José-Abel](mailto:flores@usal.es)
 * [Grunert, Patrick](mailto:pgrunert@uni-koeln.de)
