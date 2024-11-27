@@ -8,14 +8,14 @@ permalink: /members
 ## Executive officers
 
 * **Chair**: [Grunert, Patrick](mailto:pgrunert@uni-koeln.de)
-* **Vice-Chair**: [de Vleeschouwer, David](mailto:ddevlees@uni-muenster.de)
+* **Vice-Chair**: [De Vleeschouwer, David](mailto:ddevlees@uni-muenster.de)
 * **Secretary**: [Drury, Anna Joy](mailto:a.j.drury@leicester.ac.uk)
 
 Please also see the listing of Neogene officers on the [stratigraphy.org Subcommissions page](https://stratigraphy.org/subcommissions#neogene).
 
 ## Voting Members
 
-* [de Vleeschouwer, David](mailto:ddevlees@uni-muenster.de)
+* [De Vleeschouwer, David](mailto:ddevlees@uni-muenster.de)
 * [Drury, Anna Joy](mailto:a.j.drury@leicester.ac.uk)
 * [Flores, José-Abel](mailto:flores@usal.es)
 * [Grunert, Patrick](mailto:pgrunert@uni-koeln.de)
