@@ -48,5 +48,6 @@ Please also see the listing of Neogene officers on the [stratigraphy.org Subcomm
 * [Nishi, Hiroshi](mailto:hiroshi.nishi.b3@tohoku.ac.jp)
 * [Piller, Werner](mailto:werner.piller@uni-graz.at)
 * [Raffi, Isabella](mailto:raffi@unich.it)
+* [Stoykova, Kristalina](mailto:test@test.it)
 * [Tian, Jun](mailto:tianjun@tongji.edu.cn)
 * [Turco, Elena](mailto:elena.turco@unipr.it)
