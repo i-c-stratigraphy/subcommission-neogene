@@ -19,7 +19,7 @@ The discussion on the definition of the base of the Burdigalian is still wide op
 Voting members in the Burdigalian GSSP WG
 * Aubry	Marie-Pierre
 * Auer	Gerald
-* Hendriks	Jorijntje 
+* Henderiks	Jorijntje 
 * Hilgen	Frits
 * Holbourn	Ann 
 * Kasbohm	Jennifer
