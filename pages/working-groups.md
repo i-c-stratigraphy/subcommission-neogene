@@ -17,21 +17,21 @@ The working group on defining the Burdigalian GSSP will have the mandate to prop
 The discussion on the definition of the base of the Burdigalian is still wide open. No suitable candidate section has yet been identified. We were seeking an astronomically tuned deep marine section, possibly in the Mediterranean, that would guarantee the stratigraphic contiguity with the other GSSP sections. Another option for SNS is to formally define the boundary in an (I)ODP core. We are currently investigating designation of the GSSP in a deep-sea core.
 
 Voting members in the Burdigalian GSSP WG
-Aubry	Marie-Pierre
-Auer	Gerald
-Hendriks	Jorijntje 
-Hilgen	Frits
-Holbourn	Ann 
-Kasbohm	Jennifer
-King	David
-Krijgsman	Wout
-Lam	Adriane
-Lirer	Fabrizio
-Miller	Kenneth
-Ohneiser	Christian
-Raffi	Isabella
-Turco	Elena
-Zeeden	Christian 
+* Aubry	Marie-Pierre
+* Auer	Gerald
+* Hendriks	Jorijntje 
+* Hilgen	Frits
+* Holbourn	Ann 
+* Kasbohm	Jennifer
+* King	David
+* Krijgsman	Wout
+* Lam	Adriane
+* Lirer	Fabrizio
+* Miller	Kenneth
+* Ohneiser	Christian
+* Raffi	Isabella
+* Turco	Elena
+* Zeeden	Christian 
 
 ## Neogene and Quaternary Planktonic Foraminifera WG
 
